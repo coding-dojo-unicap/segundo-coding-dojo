@@ -31,8 +31,7 @@ Contras:
  * Os equpamentos da Unicap tão meio velhos
  * Projetor falhou
  * Quebra de baby steps - muito cedo a solução do Rash
- * Faltou comida | Pode ?
-   Faltou coca   |
+ * Faltou comida, Faltou coca | Pode ?
  * Quebra das regras, falaram no vermelho
  * Divugação, criar um meio do comunicação que tenha maior divulgação
 
